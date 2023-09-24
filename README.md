@@ -1,6 +1,10 @@
-# Notas:
+# Notas: 
 Implementación de una tabla de multiplicar mediante la terminal
 
+## Instalación:
+Clonar el respositorio de forma local y ejecutar el comando ```npm install``` en la consola.
+
+## Opciones:
 ```
 Opciones:
       --help     Muestra ayuda                              [booleano]
