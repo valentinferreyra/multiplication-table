@@ -1,4 +1,4 @@
-#Notas:
+# Notas:
 Implementación de una tabla de multiplicar mediante la terminal
 
 ```
